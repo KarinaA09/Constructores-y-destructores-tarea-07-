@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f303e7-a9e1-4821-bc23-889047f9f7f9" name="Changes" comment="TAREA DE DESTRUCTORES Y CONSTRUCTORES">
-      <change afterPath="$PROJECT_DIR$/.idea/PROGRAMACION ORIENTADA A OBJETOS. K.A.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/Unidad 1/Semana 2/1.2. Herencia/herencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/Unidad 1/Semana 2/1.3. Polimorfismo/polimorfismo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/Unidad 1/Semana 2/1.5. Encapsulacion/encapsulacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/Unidad 1/Semana 3/1.6. Programacion orientada a objetos/programacion orientada a objetos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/Unidad 1/Semana 3/1.6.1.  Programacion tradicional/programacion tradicional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/Unidad 1/Semana 4/1.7.  Ejemplo del mundo real/ejemplo del mundo real.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/Unidad 1/Semana 5/1.8.  Calcular el area del perimetro/calcular el area del perimetro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/Unidad 2/2.1. Objetos clases herencia polimosfismo/objetos clases herencia polimorfismo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/Unidad 2/2.2. Implementacion de constructores y destructores/implementacion de constructores y destructores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/dashboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tecnicas de Programacion/Unidad 2/2.2. implementacion de constructores y destructores.py" beforeDir="false" />
-    </list>
+    <list default="true" id="d4f303e7-a9e1-4821-bc23-889047f9f7f9" name="Changes" comment="TAREA DE DESTRUCTORES Y CONSTRUCTORES" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720988913318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TAREA DE DESTRUCTORES Y CONSTRUCTORES">
+      <option name="closed" value="true" />
+      <created>1721592237239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721592237239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
