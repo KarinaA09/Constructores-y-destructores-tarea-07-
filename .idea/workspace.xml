@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f303e7-a9e1-4821-bc23-889047f9f7f9" name="Changes" comment="" />
+    <list default="true" id="d4f303e7-a9e1-4821-bc23-889047f9f7f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/Unidad 3/3.1.Sistema de Gestión de Inventarios/gestion de inventario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tecnicas de Programacion/unidad 4/Creación de una Aplicación de Agenda Personal/Componentes y contenedores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tecnicas de Programacion/dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tecnicas de Programacion/dashboard.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +26,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;mileydi69&quot;
+    &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
@@ -46,7 +55,8 @@
     &quot;Python.2.2. implementacion de constructores y destructores.executor&quot;: &quot;Run&quot;,
     &quot;Python.dashboard.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: []
@@ -146,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721596522565</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dashboard trabajo en programacion">
+      <option name="closed" value="true" />
+      <created>1721596676174</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721596676174</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,15 +173,5 @@
     <MESSAGE value="dashboard trabajo en" />
     <MESSAGE value="dashboard trabajo en programacion" />
     <option name="LAST_COMMIT_MESSAGE" value="dashboard trabajo en programacion" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tecnicas de Programacion/Unidad 2/2.1. Objetos clases herencia polimosfismo/objetos clases herencia polimorfismo.py</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
